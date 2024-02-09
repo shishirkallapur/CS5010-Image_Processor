@@ -11,6 +11,8 @@ Place the JAR file in the root folder. Open a terminal inside the root folder to
 
 3)java -jar GRIME.jar : when invoked in this manner the program opens the graphical user interface. This is also what happens if one double-clicks on the jar file.
 
+Note: The code will be made available upon the request. Please email kallapurshishir12@gmail.com for the source code
+
 Citation :
 The image of London has been used from the following website:
 https://upload.wikimedia.org/wikipedia/commons/6/67/London_Skyline_%28125508655%29.jpeg
