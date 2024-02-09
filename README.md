@@ -9,7 +9,7 @@ Place the JAR file in the root folder. Open a terminal inside the root folder to
 
 2) java -jar GRIME.jar -text : when invoked in this manner the program opens in an interactive text mode and allows the user to type the commands and execute it one line at a time(Please look at the USEME file for the valid syntax and commands allowed).
 
-3)java -jar GRIME.jar : when invoked in this manner the program opens the graphical user interface. This is also what happens if one double-clicks on the jar file.
+3) java -jar GRIME.jar : when invoked in this manner the program opens the graphical user interface. This is also what happens if one double-clicks on the jar file.
 
 Note: The code will be made available upon the request. Please email kallapurshishir12@gmail.com for the source code
 
